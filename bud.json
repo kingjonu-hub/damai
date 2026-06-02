@@ -1,6 +1,0 @@
-{
-  "startupCommands": [
-    "cd /home/user/computer/sistem-informasi-damai/backend && npm install && node src/database/seed.js; node src/index.js",
-    "cd /home/user/computer/sistem-informasi-damai/frontend && npm install; npm run dev -- --host"
-  ]
-}
